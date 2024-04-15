@@ -1,3 +1,5 @@
+This repository is now **archived**. A good alternative is <https://rclone.org/drive/>.
+
 Drive Copy
 ==========
 
